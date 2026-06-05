@@ -7,7 +7,7 @@ SSH_PASS = "fleet2026"
 
 def fetch_remote_node_metrics(
         target_ip,
-        node_name):
+        node_name): 
 
     ssh = None
 
