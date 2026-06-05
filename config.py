@@ -6,7 +6,7 @@ ACCENT_BLUE = "#38BDF8"
 ACCENT_GREEN = "#4ADE80"
 ACCENT_PINK = "#F43F5E"
 
-AUTH_USER = "admin"
+AUTH_USER = "user"
 AUTH_PASS = "fleet2026"
 
 AUDIT_USER = "Admin"
